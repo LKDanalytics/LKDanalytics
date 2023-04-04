@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm Liam, an aspiring Sports Data Analyst </div>  
   
 
@@ -10,6 +5,9 @@
   
 
 - I am a passionate volleyball fan and fascinated where sports analytics will take it in the near future 🏐  
+  
+
+- I am very interested in data visualization and eager to learn more about it, especially in terms of creating interactive and dynamic visualizations 📊  
   
 
 <br/>  
@@ -20,7 +18,6 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
 
 <br/>  
